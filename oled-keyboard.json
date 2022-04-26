@@ -1,0 +1,6 @@
+{
+	"name": "OLED Keyboard",
+	"author": "Lei#5550",
+	"theme_color_map": {
+		"KEYBOARD": ["#000000", "#000000"]
+	},
